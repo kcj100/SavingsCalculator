@@ -4,3 +4,6 @@ A savings calculator that displays savings throughout a 30-year period through a
 This app includes:
 * A monthly savings slider meant for adjusting savings per month
 * A yearly interest rate slider
+
+# Credits
+The tests in this program are provided by the University of Helsinki.
